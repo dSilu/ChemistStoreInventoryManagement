@@ -4,7 +4,7 @@ Problem Statement:
 1. A chemist wants to automate his works.
 2. To make a purchase book that stores the purchased history in a JSON file and uses it every time new products were bought.
 3. The purchase JSON file gets updated automatic with every purchase.
-4. To make a sells book that stores every data of selling in a JSON file that gets automatically every time a product is sold.
+4. To make a sells book that stores every data of selling in a JSON file that gets automatically updated every time a product is sold.
 5. Another Search Notebook that searchs the store Inventory data and tells the availibility of a product.
 6. The Search Notebook also saves the search data in a JSON file that helps the shop owner to understand people's need.
 
