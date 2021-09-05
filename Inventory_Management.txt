@@ -23,4 +23,5 @@ iii. 'Search_engine_Notebook.ipynb          : To provide customers a user friend
 Note: 
 1- The Search_engine_Notebook.ipynb takes medicine's name and if the medicine is available in the store, it returns the Product ID and price.
 2- If the Medicine is not available, the Search_History.json file stores the data and lets the Owner know.
-3- The Search_engine_Notebook only takes particula medicine Name. Hence, Try to write accurate name, if not found input the name with adding or removing the other parts of name as per choice.
+3- The Search_engine_Notebook only takes particula medicine Name. 
+4- Hence, Try to write accurate name, if not found input the name with adding or removing the other parts of name as per choice.
