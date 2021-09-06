@@ -23,6 +23,7 @@ i.   'Chemist_Store_Purchase_Notebook.ipynb : To process purchase of both existi
 ii.  'Chemist_Store_Sells_Notebook.ipynb    : To process sells data and to generate bill 
 iii. 'Search_engine_Notebook.ipynb          : To provide customers a user friendly searching engine of the store Inventory. 
 
+** Enter the last 4 digits of the product id**
 
 Note: 
 1- The Search_engine_Notebook.ipynb takes medicine's name and if the medicine is available in the store, it returns the Product ID and price.
